@@ -56,6 +56,18 @@
   margin: 0;
 }
 
+.contact-item p + p {
+  margin-top: 1rem;
+}
+
+.contact-note {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.4;
+}
+
 .contact-item a {
   color: #643b3b;
   text-decoration: none;
